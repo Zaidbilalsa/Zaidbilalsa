@@ -1,5 +1,31 @@
-# 💫 About Me:
-# 👋 About Me<br><br>Hi, I'm **Zaid**.<br><br>I'm a **Full-Stack Developer** passionate about building modern, scalable, and user-friendly web applications. I enjoy working across the entire development stack—from creating responsive frontend interfaces to designing efficient backend systems and APIs.<br><br>I'm continuously expanding my skills in **Artificial Intelligence**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** to build intelligent, AI-powered applications. Alongside web development, I'm also learning **ERPNext/Frappe** and **Computer Networking** to better understand enterprise systems and IT infrastructure.<br><br>## 🚀 What I'm Working On<br><br>* 💻 Building full-stack web applications<br>* ⚛️ Developing with React, Next.js, TypeScript, and Tailwind CSS<br>* 🛠️ Creating backend services using Node.js and NestJS<br>* 🗄️ Working with PostgreSQL, MySQL, MongoDB, and REST APIs<br>* 🤖 Exploring AI, Generative AI, LLMs, Prompt Engineering, and RAG<br>* ⚙️ Learning ERPNext/Frappe customization and development<br>* 🌐 Strengthening networking concepts and infrastructure knowledge<br><br>## 📚 My Goal<br><br>My goal is to become a well-rounded Software Engineer who combines modern web technologies, enterprise solutions, networking, and AI to build scalable products that solve real-world problems.<br><br>I believe in continuous learning, building practical projects, and improving with every challenge.<br>
+## 💫 About Me
+
+Hi, I'm **Zaid** 👋
+
+I'm a **Full-Stack Developer** passionate about building modern, scalable, and user-friendly web applications. I enjoy developing both frontend and backend solutions while continuously learning new technologies.
+
+### 🚀 Currently Working With
+
+* ⚛️ React, Next.js, TypeScript & Tailwind CSS
+* 🛠️ Node.js, NestJS & REST APIs
+* 🗄️ PostgreSQL, MySQL & MongoDB
+* ⚙️ ERPNext / Frappe Development
+* 🌐 Computer Networking
+* 🤖 Artificial Intelligence, Generative AI, LLMs & RAG
+
+### 🎯 Current Focus
+
+* Building scalable full-stack applications
+* Learning AI-powered application development
+* Exploring enterprise solutions with ERPNext
+* Strengthening backend architecture and networking concepts
+
+### 🌱 Philosophy
+
+> *"Keep learning, keep building, and let every project teach something new."*
+
+💡 **Always open to learning, collaborating, and building impactful software.**
+
 
 
 ## 🌐 Socials:
