@@ -1,6 +1,4 @@
-## 💫 About Me
-
-Hi, I'm **Zaid** 👋
+Hi, I'm **ZaYd** 👋
 
 I'm a **Full-Stack Developer** passionate about building modern, scalable, and user-friendly web applications. I enjoy developing both frontend and backend solutions while continuously learning new technologies.
 
