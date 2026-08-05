@@ -5,27 +5,32 @@
 
 <br/>
 
-<!-- ABOUT ME SECTION -->
-## <span style="color:#0476F2;">💫 About Me</span>
+<!-- NEW TERMINAL "ABOUT ME" DESIGN -->
+## <span style="color:#0476F2;">💻 About Me</span>
 
-<img src="https://komarev.com/ghpvc/?username=Zaidbilalsa&label=Profile%20Views&color=E0234E&style=flat" alt="Profile views"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zaidbilalsa&label=Profile%20Views&color=E0234E&style=flat" alt="Profile views" align="right"/>
+  <br><br>
+  <table border="1" style="border-collapse: collapse; border-color: #333333; background-color: #0D0D0D; width: 100%;">
+    <tr>
+      <td align="left" style="padding: 10px 15px; border-bottom: 1px solid #333333; background-color: #050505;">
+        <span style="color:#E0234E;">🔴</span> <span style="color:#FFDD00;">🟡</span> <span style="color:#0476F2;">🟢</span> &nbsp;&nbsp;<b style="color: #ffffff; font-family: monospace;">~ /zayd/bio.sh</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="padding: 25px; font-family: monospace; font-size: 14px; color: #b3b3b3; line-height: 1.8;">
+        <span style="color: #0476F2; font-weight: bold;">></span> <b style="color: #ffffff;">Role:</b> Full-Stack Developer passionate about building modern, scalable web applications.<br>
+        <span style="color: #0476F2; font-weight: bold;">></span> <b style="color: #ffffff;">Currently Working With:</b> React, Next.js, TypeScript, Node.js, NestJS & ERPNext.<br>
+        <span style="color: #0476F2; font-weight: bold;">></span> <b style="color: #ffffff;">Exploring:</b> Artificial Intelligence, Generative AI, LLMs & RAG.<br>
+        <span style="color: #0476F2; font-weight: bold;">></span> <b style="color: #ffffff;">Current Focus:</b> Building AI-powered solutions and strengthening backend architectures.<br>
+        <span style="color: #0476F2; font-weight: bold;">></span> <b style="color: #ffffff;">Interests:</b> Computer Networking and enterprise software.<br>
+        <span style="color: #E0234E; font-weight: bold;">></span> <b style="color: #ffffff;">Status:</b> Always open to learning, collaborating, and building impactful software.<span style="color: #ffffff; animation: blink 1s infinite;"> █</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table width="100%" border="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="70%" style="border: none; line-height: 1.8; font-size: 15px;">
-      👋 I'm a <b>Full-Stack Developer</b> passionate about building modern, scalable, and user-friendly web applications. I enjoy developing both frontend and backend solutions while continuously learning new technologies.<br><br>
-      🚀 <b>Currently Working With:</b> React, Next.js, TypeScript, Node.js, NestJS & ERPNext / Frappe.<br>
-      🤖 <b>Exploring:</b> Artificial Intelligence, Generative AI, LLMs & RAG.<br>
-      🎯 <b>Current Focus:</b> Building scalable full-stack applications and AI-powered solutions.<br>
-      🌐 <b>Interests:</b> Computer Networking and strengthening backend architectures.<br>
-      💡 <i>Always open to learning, collaborating, and building impactful software.</i>
-    </td>
-    <td width="30%" align="center" style="border: none;">
-      <!-- Developer Graphic -->
-      <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/coding.gif" width="220" alt="Coding gif"/>
-    </td>
-  </tr>
-</table>
+<br/>
 
 <!-- FOLLOW ME ON -->
 <div align="right">
@@ -36,36 +41,10 @@
 
 <br/>
 
-<!-- LANGUAGES & TOOLS SQUARE GRID -->
-## <span style="color:#E0234E;">📚 Languages & tools I Have placed My Hands On</span>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- SkillIcons mapped exactly to your original text stack -->
-    <img src="https://skillicons.dev/icons?i=html,js,ts,py,php,react,nextjs,vue,tailwind,vite,nodejs,nestjs,express,fastapi,postgres,mysql,mongodb,figma,postman,git,github,gitlab&theme=dark&perline=11" alt="Skills" />
-  </a>
-</p>
-
-<br/>
-
-<!-- GITHUB STATS -->
-## <span style="color:#0476F2;">⚡ GitHub Stats</span>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaidbilalsa&show_icons=true&theme=dark&hide_border=false&border_color=333333&bg_color=0D0D0D&title_color=E0234E&icon_color=0476F2&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195"/>
-  <img src="https://streak-stats.demolab.com/?user=Zaidbilalsa&theme=dark&background=0D0D0D&border=333333&ring=0476F2&fire=E0234E&currStreakLabel=0476F2&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak Stats" height="195"/>
-  <br/><br/>
-  <!-- Centered Top Languages under the main stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidbilalsa&layout=compact&theme=dark&hide_border=false&border_color=333333&bg_color=0D0D0D&title_color=0476F2&text_color=ffffff&langs_count=6" alt="Most Used Languages" width="450"/>
-</div>
-
-<br/>
-
 <!-- COLORFUL TECH STACK BUTTONS -->
-## <span style="color:#E0234E;">💻 Tech Stack:</span>
+## <span style="color:#E0234E;">🛠️ Tech Stack</span>
 
 <p align="center">
-  <!-- Restored ALL your original specific colorful badges -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -97,6 +76,25 @@
 
 <br/>
 
+<!-- REVERTED: YOUR ORIGINAL STREAK STATS DESIGN -->
+## <span style="color:#E0234E;">⚡&nbsp; Streak Stats</span>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Zaidbilalsa&theme=dark&background=0D0D0D&border=E0234E&ring=E0234E&fire=0476F2&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak Stats"/>
+</p>
+
+<br/>
+
+<!-- REVERTED: YOUR ORIGINAL GITHUB STATS DESIGN (WITH PIE CHART) -->
+## <span style="color:#E0234E;">🕷️&nbsp; GitHub Stats</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaidbilalsa&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E0234E&icon_color=0476F2&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidbilalsa&layout=pie&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E0234E&text_color=ffffff" alt="Most Used Languages" height="180"/>
+</p>
+
+<br/>
+
 <!-- BOTTOM SECTION (Top Repo & Philosophy Quote) -->
 <table width="100%" border="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
@@ -104,7 +102,6 @@
     <td width="50%" align="center" style="border: none;">
       <h3 style="color:#0476F2;">⭐ Featured Repository</h3>
       <a href="https://github.com/Zaidbilalsa?tab=repositories">
-        <!-- Replaced with generic repo stat so it doesn't break. You can change 'repo=YOUR_REPO_NAME' later -->
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zaidbilalsa&repo=Zaidbilalsa&theme=dark&bg_color=0D0D0D&title_color=E0234E&text_color=ffffff&icon_color=0476F2&border_color=333333" alt="Top Repo" />
       </a>
     </td>
