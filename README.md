@@ -1,23 +1,109 @@
-Hi, I'm **ZaYd** 👋
+<div align="center">
+  <br />
+  <p>
+    🌲 <b>ZaYd's Workspace</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+    <a href="#tech-stack" style="text-decoration: none; color: inherit;">Features</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+    <a href="#about" style="text-decoration: none; color: inherit;">About</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+    <a href="mailto:your.email@example.com" style="text-decoration: none; color: inherit;">Contact</a>
+  </p>
+  <br />
 
-I'm a **Full-Stack Developer** passionate about building modern, scalable, and user-friendly web applications. I enjoy developing both frontend and backend solutions while continuously learning new technologies.
+  <h1>Where Code Meets<br>Creativity.</h1>
+  
+  <p align="center">
+    In the rush of the digital world, imagine a digital space that feels intuitive and grounded.<br>
+    Here, I architect scalable full-stack solutions, explore AI innovations, and build with purpose.
+  </p>
 
-### 🚀 Currently Working With
+  <br />
+</div>
 
-* ⚛️ React, Next.js, TypeScript & Tailwind CSS
-* 🛠️ Node.js, NestJS & REST APIs
-* 🗄️ PostgreSQL, MySQL & MongoDB
-* ⚙️ ERPNext / Frappe Development
-* 🌐 Computer Networking
-* 🤖 Artificial Intelligence, Generative AI, LLMs & RAG
+<!-- Three Column Feature Section -->
+<table width="100%" align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="33%" align="center" valign="top" style="border: none;">
+      🧘‍♂️<br>
+      <b>Mindful Architecture</b><br>
+      <br>
+      Building robust backends with <i>Node.js, NestJS & ERPNext</i> to support complex logic gracefully.
+    </td>
+    <td width="33%" align="center" valign="top" style="border: none;">
+      📓<br>
+      <b>Creative Spaces</b><br>
+      <br>
+      Crafting beautiful, responsive interfaces freely in your own digital sanctuary using <i>React & Next.js</i>.
+    </td>
+    <td width="33%" align="center" valign="top" style="border: none;">
+      🍃<br>
+      <b>Smart Innovations</b><br>
+      <br>
+      Exploring <i>AI, LLMs & RAG</i> to find clarity and bring intelligent solutions to modern software.
+    </td>
+  </tr>
+</table>
 
-### 🎯 Current Focus
+<br />
 
-* Building scalable full-stack applications
-* Learning AI-powered application development
-* Exploring enterprise solutions with ERPNext
-* Strengthening backend architecture and networking concepts
+<!-- Action Buttons styled like the image -->
+<div align="center">
+  <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/Start_Your_Journey_%E2%86%92-F06560?style=for-the-badge&logoColor=white" alt="Start Your Journey" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#tech-stack">
+    <img src="https://img.shields.io/badge/Explore_Features-2C4C42?style=for-the-badge&logoColor=white" alt="Explore Features" />
+  </a>
+</div>
 
+<br />
+<br />
+
+<h3 id="tech-stack" align="center">🛠️ Tools for the Journey</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,php" alt="Backend" /><br><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,figma,postman" alt="Database and Tools" />
+  </a>
+</p>
+
+<br />
+
+<h3 id="about" align="center">📊 Journey Statistics</h3>
+
+<!-- Stats customized with the EXACT hex colors from your pixel art image -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaidbilalsa&bg_color=D3E4DE&title_color=193D35&text_color=2A4F45&icon_color=F06560&border_radius=10&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidbilalsa&bg_color=D3E4DE&title_color=193D35&text_color=2A4F45&border_radius=10&hide_border=true&layout=compact" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidbilalsa&background=D3E4DE&ring=F06560&fire=F06560&currStreakNum=193D35&sideNums=2A4F45&currStreakLabel=2A4F45&sideLabels=2A4F45&dates=2A4F45&border_radius=10&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <b>Connect with me:</b><br><br>
+  <a href="https://linkedin.com/in/zaid-bilal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2C4C42?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/zaydbilal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-F06560?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br />
+
+<!-- 
+  INSTRUCTIONS FOR THE IMAGE:
+  1. Save the pixel art image you provided as "banner.png"
+  2. Upload it to your GitHub profile repository (the same repo as this README)
+  3. The code below will display it beautifully at the bottom of your profile!
+-->
+<div align="center">
+  <img src="banner.png" alt="Quiet Place Pixel Art" width="100%" style="border-radius: 10px;" />
+</div>
 ### 🌱 Philosophy
 
 > *"Keep learning, keep building, and let every project teach something new."*
