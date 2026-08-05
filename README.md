@@ -10,7 +10,7 @@
 
 **Aspiring Full Stack Developer | B.Tech Information Technology**
 <br/>
-📍 India &nbsp;·&nbsp; 📧 [add your email here] &nbsp;·&nbsp; 🌐 [add your portfolio URL here]
+📍 India &nbsp;·&nbsp; 📧 [zaidbilalsa@gmail.com] &nbsp;·&nbsp; 🌐 [zaydbilal.vercel.app]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0014?style=for-the-badge&logo=linkedin&logoColor=D946EF)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0014?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
@@ -37,7 +37,7 @@ Currently focused on strengthening backend development, cloud deployment, networ
 ### `>` cat experience.json
 
 <details open>
-<summary><b>🟣 Software Development Intern</b> — <i>[add company name]</i> <code>[add internship dates]</code></summary>
+<summary><b>🟣 Software Development Intern</b> — <i>[Your Company]</i> <code>[MArk internship]</code></summary>
 <br>
 
 > Working on full-stack web applications using modern JavaScript technologies.
