@@ -1,131 +1,105 @@
+<!-- BANNER SECTION -->
+<!-- NOTE: Replace the src link below with your own custom drawn/designed banner image to get the exact font/manga look from your examples -->
 <div align="center">
-  <br />
-  <p>
-    🌲 <b>ZaYd's Workspace</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-    <a href="#tech-stack" style="text-decoration: none; color: inherit;">Features</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-    <a href="#about" style="text-decoration: none; color: inherit;">About</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-    <a href="mailto:your.email@example.com" style="text-decoration: none; color: inherit;">Contact</a>
-  </p>
-  <br />
-
-  <h1>Where Code Meets<br>Creativity.</h1>
-  
-  <p align="center">
-    In the rush of the digital world, imagine a digital space that feels intuitive and grounded.<br>
-    Here, I architect scalable full-stack solutions, explore AI innovations, and build with purpose.
-  </p>
-
-  <br />
+  <img src="https://via.placeholder.com/1000x250/090909/E0234E?text=YOUR+CUSTOM+BANNER+IMAGE+HERE+(E.g.+ZaYd+|+Developer)" alt="Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
-<!-- Three Column Feature Section -->
-<table width="100%" align="center" style="border: none;">
+<br />
+
+<!-- METRICS DASHBOARD (Inspired by Image 3) -->
+<div align="center">
+  <a href="https://github.com/Zaidbilalsa">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zaidbilalsa&theme=transparent&bg_color=090909&title_color=E0234E&text_color=ffffff&icon_color=E0234E&border_color=333333&show_icons=true&include_all_commits=true&count_private=true&ring_color=E0234E" alt="GitHub Stats" height="195"/>
+  </a>
+  <a href="https://github.com/Zaidbilalsa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidbilalsa&theme=transparent&bg_color=090909&title_color=E0234E&text_color=ffffff&border_color=333333&layout=compact&langs_count=6" alt="Top Languages" height="195"/>
+  </a>
+</div>
+
+<br />
+
+<!-- WHO AM I SECTION (Inspired by Images 1 & 2) -->
+<table width="100%" style="border-collapse: collapse; border: none; background-color: #090909;">
   <tr style="border: none;">
-    <td width="33%" align="center" valign="top" style="border: none;">
-      🧘‍♂️<br>
-      <b>Mindful Architecture</b><br>
-      <br>
-      Building robust backends with <i>Node.js, NestJS & ERPNext</i> to support complex logic gracefully.
+    <td width="30%" align="center" style="border: none;">
+      <!-- Replace with a custom icon, brain graphic, or mask like in your examples -->
+      <img src="https://via.placeholder.com/200x200/000000/E0234E?text=Custom+Graphic" width="180" style="border-radius: 10px;" alt="Profile Graphic"/>
     </td>
-    <td width="33%" align="center" valign="top" style="border: none;">
-      📓<br>
-      <b>Creative Spaces</b><br>
-      <br>
-      Crafting beautiful, responsive interfaces freely in your own digital sanctuary using <i>React & Next.js</i>.
-    </td>
-    <td width="33%" align="center" valign="top" style="border: none;">
-      🍃<br>
-      <b>Smart Innovations</b><br>
-      <br>
-      Exploring <i>AI, LLMs & RAG</i> to find clarity and bring intelligent solutions to modern software.
+    <td width="70%" style="border: none; padding-left: 20px;">
+      <h2 style="color: #E0234E;">Know About Me</h2>
+      <p style="color: #ffffff; font-size: 15px;">
+        Hey there! I'm <b>ZaYd</b>. <br><br>
+        I'm a Full-Stack Developer fueled by late-night coding sessions and an obsession with minimalist dark themes. By day, I build scalable enterprise solutions and explore AI-powered applications. By night, I'm diving deep into <b>ERPNext</b>, <b>LLMs</b>, and <b>RAG</b>, trying to automate myself out of doing manual work.<br><br>
+        <i>When I'm not coding, I'm usually breaking system architectures or learning advanced computer networking.</i>
+      </p>
     </td>
   </tr>
 </table>
 
 <br />
 
-<!-- Action Buttons styled like the image -->
-<div align="center">
-  <a href="#featured-projects">
-    <img src="https://img.shields.io/badge/Start_Your_Journey_%E2%86%92-F06560?style=for-the-badge&logoColor=white" alt="Start Your Journey" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#tech-stack">
-    <img src="https://img.shields.io/badge/Explore_Features-2C4C42?style=for-the-badge&logoColor=white" alt="Explore Features" />
-  </a>
-</div>
+<!-- TOP PROJECTS SECTION -->
+<h3 align="left" style="color: #E0234E;">Top Projects (built to avoid manual labor)</h3>
+
+| 🚀 Project | 🛠️ Tech Stack | 📝 Description |
+| :--- | :--- | :--- |
+| **[AI Knowledge Hub](#)** | `Python` `FastAPI` `LLMs` | RAG-based AI to read and summarize enterprise text files for me. |
+| **[Enterprise Auto](#)** | `ERPNext` `PostgreSQL` | Scalable resource planning tool because manual management is pain. |
+| **[NextGen API](#)** | `NestJS` `TypeScript` | A backend server that manages my workflows better than I manage my sleep schedule. |
 
 <br />
-<br />
 
-<h3 id="tech-stack" align="center">🛠️ Tools for the Journey</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend" /><br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,php" alt="Backend" /><br><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,figma,postman" alt="Database and Tools" />
-  </a>
+<!-- MASTERED TECHNOLOGIES (Inspired by Image 3's skill strip) -->
+<h3 align="left" style="color: #E0234E;">Mastered Technologies & Topics</h3>
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=E0234E&border=E0234E" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-090909?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=E0234E" alt="TS" />
+  <img src="https://img.shields.io/badge/Tailwind-090909?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <br>
+  <!-- Backend & AI -->
+  <img src="https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node.js&logoColor=E0234E" alt="Node" />
+  <img src="https://img.shields.io/badge/NestJS-090909?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=E0234E" alt="Python" />
+  <img src="https://img.shields.io/badge/ERPNext-090909?style=for-the-badge&logo=erpnext&logoColor=white" alt="ERPNext" />
+  <img src="https://img.shields.io/badge/LLMs_%26_AI-090909?style=for-the-badge&logo=openai&logoColor=E0234E" alt="AI" />
+  <br>
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=E0234E" alt="Mongo" />
 </p>
 
 <br />
 
-<h3 id="about" align="center">📊 Journey Statistics</h3>
+<!-- CAUTION QUOTE & CONNECT (Inspired by Image 2) -->
+<h3 align="left" style="color: #E0234E;">⚠️ Caution</h3>
+<p>
+  <i>Code is never finished, it only becomes slightly less terrible over time.<br>
+  What you see here is built with practice, curiosity, and persistence.</i>
+</p>
 
-<!-- Stats customized with the EXACT hex colors from your pixel art image -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaidbilalsa&bg_color=D3E4DE&title_color=193D35&text_color=2A4F45&icon_color=F06560&border_radius=10&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidbilalsa&bg_color=D3E4DE&title_color=193D35&text_color=2A4F45&border_radius=10&hide_border=true&layout=compact" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaidbilalsa&background=D3E4DE&ring=F06560&fire=F06560&currStreakNum=193D35&sideNums=2A4F45&currStreakLabel=2A4F45&sideLabels=2A4F45&dates=2A4F45&border_radius=10&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <b>Connect with me:</b><br><br>
-  <a href="https://linkedin.com/in/zaid-bilal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2C4C42?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="left">
+  <a href="https://github.com/Zaidbilalsa">
+    <img src="https://img.shields.io/badge/GITHUB-E0234E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/zaydbilal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-F06560?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://linkedin.com/in/zaid-bilal">
+    <img src="https://img.shields.io/badge/LINKEDIN-E0234E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/GMAIL-E0234E?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
 <br />
 
-<!-- 
-  INSTRUCTIONS FOR THE IMAGE:
-  1. Save the pixel art image you provided as "banner.png"
-  2. Upload it to your GitHub profile repository (the same repo as this README)
-  3. The code below will display it beautifully at the bottom of your profile!
--->
+<!-- CONTRIBUTION GRAPH (Inspired by the bottom of Images 1 & 2) -->
+<h3 align="center" style="color: #E0234E;">My Contributions</h3>
 <div align="center">
-  <img src="banner.png" alt="Quiet Place Pixel Art" width="100%" style="border-radius: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaidbilalsa&bg_color=090909&color=ffffff&line=E0234E&point=ffffff&area=true&hide_border=true&title_color=E0234E" alt="Contribution Graph" width="100%" />
 </div>
-### 🌱 Philosophy
 
-> *"Keep learning, keep building, and let every project teach something new."*
-
-💡 **Always open to learning, collaborating, and building impactful software.**
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaydbilal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-bilal) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Zaidbilalsa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Zaidbilalsa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zaidbilalsa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Zaidbilalsa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-this is my git read me file it is old one and now i want to build a new one based on the trending new one 
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zaidbilalsa&label=PROFILE+VIEWS&color=E0234E&style=for-the-badge" alt="Profile Views" />
+</div>
