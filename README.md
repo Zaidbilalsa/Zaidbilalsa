@@ -10,7 +10,7 @@
 
 **Aspiring Full Stack Developer | B.Tech Information Technology**
 <br/>
-📍 India &nbsp;·&nbsp; 📧 [zaidbilalsa@gmail.com] &nbsp;·&nbsp; 🌐 [zaydbilal.vercel.app]
+📍 India &nbsp;·&nbsp; 📧 [zaidbilalsa@gmail.com] &nbsp;·&nbsp; 🌐 [https://zaydbilal.vercel.app]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0014?style=for-the-badge&logo=linkedin&logoColor=D946EF)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0014?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
