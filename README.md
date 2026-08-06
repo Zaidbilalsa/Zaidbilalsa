@@ -1,143 +1,91 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-dark.png">
+    <img src="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-light.png" alt="Banner" width="100%">
+  </picture>
+</p>
 
-<div align="center">
+<h1 align="center">
+  Hey there, I'm <span style="color:#D946EF;">Zaid</span>
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=D946EF&center=true&vCenter=true&width=800&lines=root%40dev%3A~%24+whoami;%3E+ASPIRING+FULL+STACK+DEVELOPER;%3E+B.TECH+INFORMATION+TECHNOLOGY;%3E+LEARN.+BUILD.+SHIP." alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=D946EF&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Zaidbilalsa?style=for-the-badge&logo=github&label=Followers&color=D946EF" />
+  <img src="https://img.shields.io/github/stars/Zaidbilalsa?style=for-the-badge&logo=github&label=Stars&color=D946EF" />
+  <img src="https://komarev.com/ghpvc/?username=Zaidbilalsa&style=for-the-badge&color=D946EF"/>
+</p>
 
-<pre>
-1NF0RM4T10N IS POWER
-</pre>
 
-**Aspiring Full Stack Developer | B.Tech Information Technology**
-<br/>
-📍 India &nbsp;·&nbsp; 📧 [zaidbilalsa@gmail.com] &nbsp;·&nbsp; 🌐 [https://zaydbilal.vercel.app]
+## 👩‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0014?style=for-the-badge&logo=linkedin&logoColor=D946EF)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0014?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0014?style=for-the-badge&logo=vercel&logoColor=00E5FF)](#)
-
-<sub><i>Replace the # links above and the bracketed placeholders below with your actual email, GitHub username, LinkedIn, and portfolio URL.</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0014,50:B026FF,100:FF2E9A&height=3&width=800" width="100%"/>
-
-<sub>💀 <i>Iniciando Protocolo Portfolio v1.9...</i> 💀</sub>
-
-</div>
-
----
-
-### `>` executive_summary.log
-
-Aspiring Full Stack Developer with a Bachelor's degree in Information Technology and hands-on experience through a software development internship. Passionate about building scalable web applications and continuously learning modern technologies including React, Next.js, NestJS, TypeScript, Flutter, and ERP systems.
-
-Currently focused on strengthening backend development, cloud deployment, networking fundamentals, and AI-powered applications while building real-world projects.
+- 🎓 B.Tech in Information Technology
+- 💼 Software Development Intern experience; building full-stack applications
+- 🔭 Currently focusing on backend engineering, cloud deployment, networking, and AI integrations
+- 🌱 Learning: Networking (CCNA fundamentals), RAG, Flutter, NestJS, FastAPI
+- 📍 India · ✉️ zaidbilalsa@gmail.com · 🌐 https://zaydbilal.vercel.app
 
 ---
 
-### `>` cat experience.json
+## 💻 Tech Stack
 
-<details open>
-<summary><b>🟣 Software Development Intern</b> — <i>[Your Company]</i> <code>[MArk internship]</code></summary>
-<br>
-
-> Working on full-stack web applications using modern JavaScript technologies.
-- Building responsive applications using React, Next.js, Tailwind CSS and TypeScript.
-- Developing REST APIs with NestJS, Express.js and Node.js.
-- Working with PostgreSQL, MySQL and Prisma ORM.
-- Learning enterprise development using Frappe Framework and ERPNext.
-- Using Git and GitHub for version control and collaborative development.
-</details>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,postgres,mysql,mongodb,tailwind,prisma,git,github,vercel,figma,postman&perline=12" />
+</p>
 
 ---
 
-### `>` ls -la ./featured_projects
+## 📂 Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Portfolio Website** | Personal portfolio built with modern UI, animations and optimized for deployment. | `Next.js` `TypeScript` `Tailwind CSS` |
-| **Student Management System** | Academic management system with authentication and CRUD functionality. | `React` `Node.js` `MySQL` |
-| **Laundry Management System** | Management application for laundry operations. | `React` `Node.js` |
-| **WordPress WooCommerce** | E-commerce website customization and development. | `WordPress` `WooCommerce` |
-| **CRM & ERP Integrations** | Lead management and ERPNext/Frappe customizations. | `Frappe` `ERPNext` `Vue.js` |
+| **Portfolio Website** | Personal portfolio with modern UI and animations | Next.js · TypeScript · Tailwind CSS |
+| **Student Management System** | Academic management with auth and CRUD | React · Node.js · MySQL |
+| **Laundry Management** | Management app for laundry operations | React · Node.js |
+| **WooCommerce Customization** | E-commerce customizations and theming | WordPress · WooCommerce |
+| **CRM & ERP Integrations** | ERPNext / Frappe customizations and lead management | Frappe · ERPNext · Vue.js |
 
 ---
 
-### `>` grep -r "skills" ./arsenal
+## 📈 GitHub Analytics
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-0a0014?style=flat-square&logo=javascript&logoColor=D946EF)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0a0014?style=flat-square&logo=typescript&logoColor=D946EF)
-![Python](https://img.shields.io/badge/-Python-0a0014?style=flat-square&logo=python&logoColor=00E5FF)
-![Java](https://img.shields.io/badge/-Java-0a0014?style=flat-square&logo=java&logoColor=FF2E9A)
-![C](https://img.shields.io/badge/-C-0a0014?style=flat-square&logo=c&logoColor=B026FF)
-![HTML](https://img.shields.io/badge/-HTML-0a0014?style=flat-square&logo=html5&logoColor=FF3B3B)
-![CSS](https://img.shields.io/badge/-CSS-0a0014?style=flat-square&logo=css3&logoColor=00E5FF)
+<p align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-0a0014?style=flat-square&logo=react&logoColor=00E5FF)
-![Next.js](https://img.shields.io/badge/-Next.js-0a0014?style=flat-square&logo=nextdotjs&logoColor=D946EF)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0a0014?style=flat-square&logo=tailwindcss&logoColor=00E5FF)
-![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-0a0014?style=flat-square&logo=redux&logoColor=B026FF)
-![RTK Query](https://img.shields.io/badge/-RTK_Query-0a0014?style=flat-square&logo=redux&logoColor=B026FF)
-![Flutter](https://img.shields.io/badge/-Flutter_(Learning)-0a0014?style=flat-square&logo=flutter&logoColor=00E5FF)
+<img src="https://streak-stats.demolab.com?user=Zaidbilalsa&hide_border=true&background=0D1117&ring=D946EF&fire=D946EF&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-0a0014?style=flat-square&logo=nodedotjs&logoColor=B4FF00)
-![Express](https://img.shields.io/badge/-Express.js-0a0014?style=flat-square&logo=express&logoColor=FFFFFF)
-![NestJS](https://img.shields.io/badge/-NestJS-0a0014?style=flat-square&logo=nestjs&logoColor=FF2E9A)
-![FastAPI](https://img.shields.io/badge/-FastAPI_(Learning)-0a0014?style=flat-square&logo=fastapi&logoColor=00E5FF)
+</p>
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0014?style=flat-square&logo=postgresql&logoColor=00E5FF)
-![MySQL](https://img.shields.io/badge/-MySQL-0a0014?style=flat-square&logo=mysql&logoColor=00E5FF)
-![MariaDB](https://img.shields.io/badge/-MariaDB-0a0014?style=flat-square&logo=mariadb&logoColor=FF9900)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0a0014?style=flat-square&logo=mongodb&logoColor=B4FF00)
-![Prisma](https://img.shields.io/badge/-Prisma_ORM-0a0014?style=flat-square&logo=prisma&logoColor=FFFFFF)
+<p align="center">
 
-**Enterprise**
-![Frappe](https://img.shields.io/badge/-Frappe_Framework-0a0014?style=flat-square&logo=frappe&logoColor=00E5FF)
-![ERPNext](https://img.shields.io/badge/-ERPNext-0a0014?style=flat-square&logo=frappe&logoColor=D946EF)
-![CRM](https://img.shields.io/badge/-CRM_Development-0a0014?style=flat-square&logo=salesforce&logoColor=FF2E9A)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaidbilalsa&bg_color=0D1117&color=F8BBD0&line=D946EF&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-0a0014?style=flat-square&logo=git&logoColor=FF3B3B)
-![GitHub](https://img.shields.io/badge/-GitHub-0a0014?style=flat-square&logo=github&logoColor=FFFFFF)
-![Vercel](https://img.shields.io/badge/-Vercel-0a0014?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/-VS_Code-0a0014?style=flat-square&logo=visualstudiocode&logoColor=00E5FF)
-![Postman](https://img.shields.io/badge/-Postman-0a0014?style=flat-square&logo=postman&logoColor=FF9900)
-![Figma](https://img.shields.io/badge/-Figma-0a0014?style=flat-square&logo=figma&logoColor=D946EF)
+</p>
 
 ---
 
-### `>` cat education.txt
+## 🌐 Let's Connect
 
-- 🎓 **Bachelor of Technology (B.Tech)** — Information Technology
+<p align="center">
 
-### `>` cat currently_learning.txt
+<a href="https://linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- Networking (CCNA Fundamentals)
-- Flutter Development
-- Retrieval-Augmented Generation (RAG)
-- TypeScript
-- Next.js
-- NestJS
-- ERPNext & Frappe
-- AI Integrations
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
----
+<a href="mailto:zaidbilalsa@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="center">
+</p>
 
-<pre>
-[STATUS]   :: OPEN_TO_WORK == true
-[FOCUS]    :: Full Stack Development | Backend Engineering | AI Applications
-[LEARNING] :: Flutter | Networking | Cloud | RAG
-</pre>
+<p align="center">See you in the next commit 🚀</p>
 
-<b>Let's build something extraordinary together.</b><br/>
-<sub>connection_terminated... 💀</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:B026FF,100:FF2E9A&height=100&section=footer" width="100%"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:B026FF,100:FF2E9A&height=120&section=footer"/>
+</p>
