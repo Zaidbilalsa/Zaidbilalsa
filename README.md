@@ -1,3 +1,9 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://gitskins.com/api/section/hero?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://gitskins.com/api/section/hero?username=asamassekou10&theme=neon&nw=ISgQ6lDVTIIGxo5e" alt="asamassekou10 hero section" />
+  </picture>
+</p>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=D946EF&center=true&vCenter=true&width=800&lines=root%40dev%3A~%24+whoami;%3E+ASPIRING+FULL+STACK+DEVELOPER;%3E+B.TECH+INFORMATION+TECHNOLOGY;%3E+LEARN.+BUILD.+SHIP." alt="Typing SVG" />
